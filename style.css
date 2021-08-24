@@ -1,0 +1,65 @@
+body{
+    background-color:rgb(50 52 55);
+    font-family: 'Roboto Mono';
+}
+.div1{
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    transform: translate(-50%);
+    width: 70%;
+    height: 10%;
+    text-align: center;
+}
+.div1{
+    display: flex;
+    justify-content: center;
+}
+.div1 h1{
+    padding-top: 20px;
+    color: rgb(226 183 20);
+    font-size: 30px;
+    margin-right: 10%;
+}
+.divMid{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 50%;
+    height: 30%;
+    transform: translate(-50%, -50%);
+    justify-content: space-around;
+    color: rgb(100 102 105);
+}
+.divMid2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 50%;
+    height: 30%;
+    transform: translate(-50%, -50%);
+    justify-content: space-around;
+    color: rgb(209 208 197);
+}
+#indivmid{
+    display:inline-flex;
+    margin: 2%;
+}
+#error{
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%);
+    color: rgb(126 42 51);
+    font-size: 30px;
+}
+button{
+    background: none;
+    outline: none;
+    border: none;
+    margin-top: 3%;
+}
+button:focus{
+    color: rgb(226, 183, 20);
+    transition: 1s;
+}
