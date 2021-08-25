@@ -1,5 +1,5 @@
 var pythonArr = ["def","return","len","for","while","true","false","try","except","not","in","str","int","random","import","input","class","from","init","if","elif","else","do","range","append","print",
- 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda',
+ 'none', 'true', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda',
  'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield',"open","with","break","continue"];
 var wordsArray = pythonArr;
 var jsArr = ["break","continue","delete","undefind","default","finally","function","import","string","true","false","class","constructor","if","else","while","do","for","slice","push","new","var","let","const","try","catch","document","window","addEventListener","consolelog"];
